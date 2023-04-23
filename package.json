@@ -1,6 +1,6 @@
 {
   "name": "keyed-db",
-  "version": "0.2.4",
+  "version": "1.0.4",
   "description": "Lightweight library to store an in-memory DB",
   "homepage": "https://github.com/darkbotzmd/keyed-db",
   "main": "lib/KeyedDB.js",
